@@ -19,13 +19,12 @@
 
 ## 📂 Repository Folder Structure
 ```
-  /Department-Store-Sales-Analysis
+  /Acadia-Store-Sales-Analysis
     │── README.md               # Project description and objectives
     │── requirements.md         # List of tools and libraries needed
-    │── data/                   # Raw and processed datasets (CSV/XLSX)
+    │── data/                   # Raw and processed datasets (XLSX)
     │── notebooks/              # Jupyter notebooks for analysis (Google Colab)
-    │── scripts/                # Python scripts for data processing
-    │── reports/                # Power BI and Excel reports
+    │── reports/                # Power BI
     │── images/                 # Sample report visuals and color scheme reference
     │── conclusions.md          # Key findings and insights
 ```
