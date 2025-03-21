@@ -4,18 +4,40 @@
     This project analyzes a "department store" sales data focusing on **clothing** categories such as shirts, boots, and jeans. The goal is to **identify trends, customer   behavior, and profitability** using **Python (Google Colab), Power BI, and Excel**.
 
 ## 🛠 Tools & Technologies
-    - **Python (Google Colab)** – Data preprocessing, analysis, and visualization
-    - **Pandas & NumPy** – Data manipulation
-    - **Matplotlib & Seaborn** – Visualizations
-    - **Power BI** – Interactive dashboards
-    - **Excel/Spreadsheet Applications** – Data review
+   - **Python (Google Colab)** -  Data preprocessing, analysis, and visualization
+   - **Pandas & NumPy** – Data manipulation
+   - **Matplotlib & Seaborn** – Visualizations
+   - **Power BI** – Interactive dashboards
+   - **Excel/Spreadsheet Applications** – Data review
 
 ## 📊 Business Questions Answered
-    - What are the sales trends over time?
-    - Which departments and brands perform best?
-    - How do customer segments impact revenue?
-    - What is the impact of missing data on analysis?
-    - Are certain products or customer groups growing faster?
+### **1. Sales Performance & Trends**  
+- What is the total revenue generated from clothing sales over time?  
+- Which department (shirts, boots, jeans, etc.) contributes the most to total sales?  
+- How do sales vary by customer segment?  
+- What is the average revenue per customer, and how has it changed over the years?
+
+### **2. Customer Insights & Buying Behavior**  
+- What is the distribution of sales by customer segment? 
+- Do VIP customers contribute more revenue than regular customers?(double check if this has meaningful insights)
+- Which department attracts the most customers?
+
+### **3. Brand Performance (Profile Analysis)**  (imcomplete data, serve as a base but not a source of true to all Profile related analytics)
+- Which clothing brand generates the highest revenue? 
+- What is the revenue distribution across different brands?   
+- How do customer preferences vary between brands?  
+- Are there any brands that are underperforming despite high customer engagement?  
+
+### **4. Profitability & Department Insights**  
+- Which department (shirts, boots, jeans, etc.) has the highest sales and customer engagement?  
+- What is the revenue per customer for each department?  
+- Are some departments more popular among VIP customers?  
+- Are there departments with declining sales trends?  
+
+### **5. Sales Forecasting & Growth Opportunities**  
+- How are sales expected to change in the upcoming years based on trends?  
+- Are there any underperforming departments or brands that need strategic adjustments?  
+- Are certain customer segments growing faster than others?  
 
 ## 📂 Repository Folder Structure
 ```
