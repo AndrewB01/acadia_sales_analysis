@@ -1,11 +1,22 @@
 # 🏬 Acadia Sales Analysis
 
 ## 📌 Project Overview
-    This project analyzes a "department store" sales data focusing on **clothing** categories such as shirts, boots, and jeans. The goal is to **identify trends, customer   behavior, and profitability** using **Python (Google Colab), Power BI, and Excel**.
+ This project analyzes a Department Store sales data focusing on **clothing** categories such as shirts, boots, and jeans. 
+ The goal is to **identify trends, customer   behavior, and profitability** using **Python (through Google Colab) and Power BI**.
+
+## 🚀 Data Dictionary - (Data Definitions)
+
+- **Department**: Clothing type (e.g., shirts, boots, jeans, etc.)
+- **Year**: Year of the sale
+- **Segment**: Customer classification (e.g., Core, Elite)
+- **Profile**: Clothing brand
+- **Sales**: Total sales revenue
+
+Customer: Number of unique customers making a purchase
 
 ## 🛠 Tools & Technologies
    - **Python (Google Colab)** -  Data preprocessing, analysis, and visualization
-   - **Pandas & NumPy** – Data manipulation
+   - **Pandas, NumPy and matplotlib** – Data manipulation
    - **Matplotlib & Seaborn** – Visualizations
    - **Power BI** – Interactive dashboards
    - **Excel/Spreadsheet Applications** – Data review
