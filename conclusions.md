@@ -4,7 +4,7 @@
 
 ### **1️⃣ Sales Performance Overview**  
 - **2023 sales contribution**: 37.1% of total sales.  
-- **2023 vs. 2022 sales**: A **41% decline** in sales compared to 2022.  
+- **2023 vs. 2022 sales**: a **41% decline** in sales compared to 2022.  
 
 ### **2️⃣ Customer Segmentation Insights**  
 - **Elite segment**: 24% of customers, generating **$3M in sales**.  
